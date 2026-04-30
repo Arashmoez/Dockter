@@ -2,7 +2,7 @@
 
 `dockter` is a Python project designed to help with Docker-related workflows.
 
-> Short description: Add one sentence here explaining exactly what dockter does.
+> dockter is a powerfull tool that for automating Dockerfiles and docker compose files
 
 ## Features
 
@@ -10,9 +10,6 @@
 - Easy to install and run locally
 - Designed for Docker/development workflow automation
 - Configurable and extendable
-
-## Project Structure
-```text
 
 ## Requirements
 

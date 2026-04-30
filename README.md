@@ -2,7 +2,7 @@
 
 `dockter` is a Python project designed to help with Docker-related workflows.
 
-> dockter is a powerfull tool that for automating Dockerfiles and docker compose files
+> `dockter` is a simple CLI tool for generating Dockerfiles interactively.
 
 ## Features
 
@@ -25,7 +25,7 @@ If this project uses Docker, you may also need:
 
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/Arashmoez/dockter.git
 cd dockter
 
@@ -50,3 +50,4 @@ Run the project:
 
 bash
 python -m dockter
+```

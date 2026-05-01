@@ -17,37 +17,13 @@
 - pip
 - Git
 
-If this project uses Docker, you may also need:
-
-- Docker
+Clone the project in the root of your project then clone this repo and run
+```python -m dockter```
 
 ## Installation
 
 Clone the repository:
 
-```bash
-git clone https://github.com/Arashmoez/dockter.git
-cd dockter
+Clone the project in the root of your project then clone this repo and run
+```python -m dockter```
 
-Create a virtual environment:
-
-bash
-python -m venv .venv
-
-Activate it:
-
-On macOS/Linux:
-
-bash
-source .venv/bin/activate
-
-On Windows PowerShell:
-
-powershell
-.venv\Scripts\Activate.ps1
-
-Run the project:
-
-bash
-python -m dockter
-```

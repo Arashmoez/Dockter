@@ -20,7 +20,8 @@
 ## Installation
 
 Clone the repository in the root of your project:
-```git clone 
+```
+git clone 
 https://github.com/Arashmoez/Dockter
 ```
 then run

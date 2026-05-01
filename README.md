@@ -17,13 +17,12 @@
 - pip
 - Git
 
-Clone the project in the root of your project then clone this repo and run
-```python -m dockter```
-
 ## Installation
 
-Clone the repository:
-
-Clone the project in the root of your project then clone this repo and run
+Clone the repository in the root of your project:
+```git clone 
+https://github.com/Arashmoez/Dockter
+```
+then run
 ```python -m dockter```
 
